@@ -1,3 +1,3 @@
 # EquipoDinamita
 
-ALGO BIEEEN \sqrt{1000000}$
+ALGO BIEEEN $\sqrt{1000000}$
